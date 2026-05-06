@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi, I'm Lavender Moraa 👋
 
 Data Science undergraduate at **Bowling Green State University** (Computer Science minor), passionate about machine learning and turning messy data into clear, actionable insights.
